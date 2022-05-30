@@ -1,0 +1,81 @@
+.header-hp{
+    background-color: rgb(54, 151, 196);
+    color: azure;
+    margin: auto;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.subhead-hp{
+    text-align: center;
+    background-color: aqua;
+    font-size: 22px;
+}
+
+.liste{
+    text-align: center;
+    color: beige;
+    background-color: aquamarine;
+    font-size: 18px;
+}
+
+.km-header, .kt-header, .mk-header{
+    background-color: darkorange;
+    color: beige;
+    text-align: center;
+    font-size: 36px;  
+    font-weight: 500;
+}
+
+.as-resim, .km-resim, .kt-resim, .mk-resim{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.kb{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: 500;
+}
+
+.gm{
+    background-color: beige;
+    text-align: center;
+    font-weight: 500;
+}
+
+.gm-liste{
+    text-align: center;
+    font-size: 18px;
+}
+
+h3{
+    text-align: center;
+    background-color:moccasin;
+    color: lightslategrey;
+}
+
+p{
+    font-size: 16px;
+    text-align: center;
+}
+
+.ny{
+    background-color: goldenrod;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.ny-liste{
+    font-size: 18px;
+    text-align: left;
+    text-indent: 0.5%;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
